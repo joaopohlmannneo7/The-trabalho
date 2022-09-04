@@ -44,6 +44,12 @@ h2{
      
   
     }
+    a{
+      text-decoration: none;
+      padding: 30px;
+      color:rgb(13, 13, 58);
+      
+    }
     header{
       background: rgb(255, 48, 48);
       height: 70px;
@@ -89,8 +95,9 @@ width: 100%;
 position: absolute;
 bottom: 0;
 left: 0;
-margin: 0px 0px -3110px 0px;
+margin: 0px 0px -3156px 0px;
 color:rgb(13, 13, 58);
+height: 330px;
 }
 #tu{
   margin-top: 50px;

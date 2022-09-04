@@ -45,7 +45,7 @@ h2{
   
     }
     header{
-      background: red;
+      background: rgb(255, 48, 48);
       height: 70px;
       margin: -21px -20px 0px -10px;
     }
@@ -75,6 +75,7 @@ h2{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    text-indent: 20px;
   }
  li{
   padding-right:-5px;
@@ -88,7 +89,7 @@ width: 100%;
 position: absolute;
 bottom: 0;
 left: 0;
-margin: 0px 0px -3120px 0px;
+margin: 0px 0px -3110px 0px;
 color:rgb(13, 13, 58);
 }
 #tu{
